@@ -28,29 +28,6 @@
 
 ---
 
-## 🎯 Featured Projects
-
-<table align="center">
-<tr>
-<td align="center" width="50%">
-<a href="https://github.com/flash555588/airi"><img src="https://github-readme-stats.vercel.app/api/pin/?username=flash555588&repo=airi&theme=radical&show_icons=true&hide_border=true&bg_color=0D1117" alt="Airi"/></a>
-</td>
-<td align="center" width="50%">
-<a href="https://github.com/flash555588/TreeSkill"><img src="https://github-readme-stats.vercel.app/api/pin/?username=flash555588&repo=TreeSkill&theme=radical&show_icons=true&hide_border=true&bg_color=0D1117" alt="TreeSkill"/></a>
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-<a href="https://github.com/flash555588/homepage-v5"><img src="https://github-readme-stats.vercel.app/api/pin/?username=flash555588&repo=homepage-v5&theme=radical&show_icons=true&hide_border=true&bg_color=0D1117" alt="Homepage"/></a>
-</td>
-<td align="center" width="50%">
-<a href="https://github.com/flash555588/Ac-Wiki"><img src="https://github-readme-stats.vercel.app/api/pin/?username=flash555588&repo=Ac-Wiki&theme=radical&show_icons=true&hide_border=true&bg_color=0D1117" alt="Ac-Wiki"/></a>
-</td>
-</tr>
-</table>
-
----
-
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -74,7 +51,7 @@
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=flash555588&left_color=blue&right_color=purple" alt="Visitor Count" />
+  <img src="https://countapi.xyz/badge?namespace=flash555588&key=github-profile" alt="Visitor Count" />
 </p>
 
 ---

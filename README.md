@@ -54,7 +54,7 @@
 </p>
 
 <p align="center">
-  <img src="https://countapi.xyz/badge?namespace=flash555588&key=github-profile" alt="Visitor Count" />
+  <img src="https://img.shields.io/badge/visitors-欢迎访问-blue?style=flat-square" alt="Visitor Count"/>
 </p>
 
 ---

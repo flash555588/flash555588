@@ -25,7 +25,7 @@
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=flash555588&theme=github-dark" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=flash555588&theme=github-dark" alt="GitHub Activity Graph" width="100%"/>
 </p>
 
 ---

@@ -39,10 +39,10 @@
 
 ---
 
-## 📈 Contribution Heatmap
+## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/0D1117/flash555588" alt="GitHub Contribution Chart" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=flash555588&theme=github-dark" alt="GitHub Activity Graph" />
 </p>
 
 ---

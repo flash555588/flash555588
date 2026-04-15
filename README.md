@@ -54,7 +54,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/visitors-欢迎访问-blue?style=flat-square" alt="Visitor Count"/>
+  <img src="https://count.getloli.com/get/@flash555588?theme=botamusique" alt="Visitor Count" />
 </p>
 
 ---

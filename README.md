@@ -11,7 +11,7 @@
 <table align="center">
 <tr>
 <td><img src="https://github-readme-stats.vercel.app/api?username=flash555588&theme=radical&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117" alt="Flash's GitHub Stats"/></td>
-<td><img src="https://github-readme-streak-stats.demolab.com/?user=flash555588&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Streak"/></td>
+<td><img src="https://streak-stats.demolab.com/?user=flash555588&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Streak"/></td>
 </tr>
 <tr>
 <td colspan="2" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flash555588&theme=radical&layout=compact&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages"/></td>

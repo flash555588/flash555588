@@ -20,17 +20,6 @@
 
 ---
 
-## 🏆 Profile Stats
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/flash555588?style=flat-square&logo=github" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/flash555588?style=flat-square&logo=github" alt="Stars"/>
-  <img src="https://img.shields.io/github/forks/flash555588?style=flat-square&logo=github" alt="Forks"/>
-  <img src="https://img.shields.io/github/issues/flash555588?style=flat-square&logo=github" alt="Issues"/>
-</p>
-
----
-
 ## 🛠️ Tech Stack
 
 <p align="center">

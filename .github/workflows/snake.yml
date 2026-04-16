@@ -1,0 +1,26 @@
+name: Generate Contribution Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Run daily at midnight
+  workflow_dispatch:  # Allow manual trigger
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate contribution grid snake
+        uses: RothSkidmore/github-contribution-grid-snake@main
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          commits_type: "all"
+          year: "all"

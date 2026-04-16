@@ -30,6 +30,16 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <div style="position:relative; display: flex; flex-wrap: nowrap;">
+    <img src="https://raw.githubusercontent.com/flash555588/flash555588/output/github-contribution-grid-snake.svg">
+  </div>
+</p>
+
+---
+
 ## 📫 Connect with Me
 
 <p align="center">

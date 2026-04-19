@@ -32,11 +32,11 @@
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <div style="position:relative; display: flex; flex-wrap: nowrap;">
-    <img src="https://raw.githubusercontent.com/flash555588/flash555588/output/github-contribution-grid-snake.svg">
-  </div>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 
